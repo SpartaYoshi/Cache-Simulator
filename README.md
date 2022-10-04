@@ -1,4 +1,4 @@
-# cache-simulator
+# Memory Cache Simulator (addresses only)
 Optional project for Computer Architecture (2021). 
 
 It's an 8-line cache memory simulator, written in Java, represented as a matrix in console. 
